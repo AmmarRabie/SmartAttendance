@@ -5,4 +5,6 @@ package cmp.sem.team8.smartattendancev1.models;
  */
 
 public class SessionModel {
+
+
 }

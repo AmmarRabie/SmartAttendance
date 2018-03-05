@@ -1,4 +1,5 @@
 package cmp.sem.team8.smartattendancev1.views;
+// this package is the ui controller of our app
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

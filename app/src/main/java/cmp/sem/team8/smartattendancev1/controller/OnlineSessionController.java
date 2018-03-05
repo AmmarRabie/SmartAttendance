@@ -8,6 +8,7 @@ package cmp.sem.team8.smartattendancev1.controller;
 /**
  * This is the implementation of online logic of the app with firebase
  */
-public class OnlineController extends BaseController {
+public class OnlineSessionController extends BaseSessionController {
+
 
 }
